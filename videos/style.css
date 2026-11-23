@@ -1,0 +1,14 @@
+
+body{
+    margin: 0;
+}
+
+/* Navigation Bar */
+.navbar{
+    background-color: lightblue;
+}
+.navbar img{
+    width: auto;
+    height: 60px;
+    border-radius: 100%;
+}
